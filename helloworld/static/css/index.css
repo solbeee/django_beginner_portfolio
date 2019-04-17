@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Tinos');
 
-body {
-  background-color: teal;
-}
 
+.body {
+  background: white url('static/images/pwallpaper.png')
+}
 h1 {
   color: red;
   text-align: center;
