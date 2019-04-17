@@ -1,7 +1,11 @@
 @import url('https://fonts.googleapis.com/css?family=Tinos');
 
+body {
+  background-color: teal;
+}
+
 h1 {
-  color: blue;
+  color: red;
   text-align: center;
   font-family: 'Tinos', serif;
 }
