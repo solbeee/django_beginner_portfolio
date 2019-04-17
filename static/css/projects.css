@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Tinos');
+
+h1 {
+  color: purple;
+  text-align: center;
+  font-family: 'Tinos', serif;
+}
+
+.links {
+    text-align: center;
+}
